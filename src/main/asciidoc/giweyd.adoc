@@ -1,0 +1,8 @@
+= Document Title
+
+include::{snippets}/success/curl-request.adoc[]
+include::{snippets}/success/http-request.adoc[]
+include::{snippets}/success/http-response.adoc[]
+include::{snippets}/success/httpie-request.adoc[]
+include::{snippets}/success/request-body.adoc[]
+include::{snippets}/success/response-body.adoc[]
